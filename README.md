@@ -19,7 +19,6 @@ CSS3 – Layout design using Flexbox alignment patterns
 
 Responsive Web Design – Media Queries targeting adaptive viewport breakpoints
 
-Project Structure:
 
 ## 📂 Project Structure
 
