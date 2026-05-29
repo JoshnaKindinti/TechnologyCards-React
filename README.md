@@ -21,6 +21,9 @@ Responsive Web Design – Media Queries targeting adaptive viewport breakpoints
 
 Project Structure:
 
+## 📂 Project Structure
+
+```text
 ├── public/                  # Core static assets and global index.html
 ├── src/
 │   ├── components/
