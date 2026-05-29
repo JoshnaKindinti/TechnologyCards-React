@@ -19,16 +19,5 @@ CSS3 – Layout design using Flexbox alignment patterns
 
 Responsive Web Design – Media Queries targeting adaptive viewport breakpoints
 
-📂 Project Structure
-Plaintext
-├── public/                  # Core static assets and global index.html
-├── src/
-│   ├── components/
-│   │   └── CardItem/
-│   │       ├── index.js     # Card functional component structure
-│   │       └── index.css    # Card-specific layout & unique color variations
-│   ├── App.js               # Application container holding the technology datasets
-│   ├── App.css              # Typography, page layouts, and centering rules
-│   └── index.js             # React application DOM entry point
-├── package.json             # Build configurations and dependency tracking
-└── README.md                # Project documentation
+
+
